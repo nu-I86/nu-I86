@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://raw.githubusercontent.com/nu-I86/nu-I86/main/style.css">
 <div class="fixed">
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
