@@ -15,5 +15,5 @@
 </div>
 
 <div class="content">
-  <h1>E</h1>
+  
 </div>
