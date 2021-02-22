@@ -1,9 +1,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nu_I86&theme=material-palenight&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nu-I86&theme=material-palenight&show_icons=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu_I86&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu-I86&layout=compact&theme=material-palenight" />
 </a>
 
 <!--
